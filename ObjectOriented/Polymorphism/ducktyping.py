@@ -1,0 +1,1 @@
+#This is the example of duck Typing in python programming
